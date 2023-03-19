@@ -1,6 +1,6 @@
 # Citi-Bike-Tableau
 ## Using Tableau , I have created a database showing how the New York Biking program helps the public by using the demographic data using the  Citi Bike Data website
-https://public.tableau.com/app/profile/payal.dhillon/viz/MyFirstViz_16792598197440/TotalValues#1 
+https://public.tableau.com/app/profile/payal.dhillon/viz/MyFirstViz_16792598197440/Story1
 
 As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
